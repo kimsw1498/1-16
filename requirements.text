@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib
+seaborn
+numpy
+
+
+# 다른 개발자한테 어떤거 설치해야하는지 말해줘야지- requirements.txt 파일 만들어서 알려주기
+이렇게 하나하나씩 쓰고 
+
+# 실행할 때는 - pip install -r requirements.txt
